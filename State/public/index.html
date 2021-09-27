@@ -1,0 +1,33 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>This Contract can store State</h1>
+
+          <form action="#">
+            <div>
+              <label for="state"></label>
+              <input type="text" name="set_value" id="set_value">
+            </div>
+            <div>
+              <button type="submit" id="set">Set</button>
+            </div>
+          </form>
+
+          <div>
+            <button id="get" type="submit">Get</button>
+            <p id="get_value"></p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="web3.js"></script>
+    <script src="StateContract.js" type="module"></script>
+    <script src="index.js" type="module"></script>
+  </body>
+</html>
