@@ -10,4 +10,6 @@ contract("ManagingArraysInState", function (/* accounts */) {
     await ManagingArraysInState.deployed();
     return assert.isTrue(true);
   });
+
+  it()
 });
