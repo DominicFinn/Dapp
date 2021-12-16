@@ -1,0 +1,28 @@
+{
+    "attributes": [
+        {
+            "trait_type": "id",
+            "value": "dc7b38ef-19af-49ad-b35b-9ade9f314858"
+        },
+        {
+            "trait_type": "Retailer",
+            "value": "Finn Shoes"
+        },
+        {
+            "trait_type": "Brand",
+            "value": "Nike"
+        },
+        {
+            "trait_type": "Price",
+            "value": "Mocha"
+        },
+        {
+            "trait_type": "Condition",
+            "value": "New"
+        }
+    ],
+    "description": "The latest in sports footwarez",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVNh2BrBDhoT6vLtBix5R3p3fa8ySoQdugQWtx8HTGbNb",
+    "name": "Nike x-master"
+  }
+  
